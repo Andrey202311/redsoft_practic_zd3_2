@@ -1,0 +1,4 @@
+Browser: Yandex, Google, Firefox
+Functionality: Navigation, Login, Bookmarks
+OS: Windows, Linux, macOS
+Expected result: Pages display correctly, Bookmarks saved/deleted, Successful login to accounts

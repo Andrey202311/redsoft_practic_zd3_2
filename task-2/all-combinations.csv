@@ -1,0 +1,82 @@
+;Browser;Functionality;OS;Expected result
+1;Yandex;Navigation;Windows;Pages display correctly
+2;Yandex;Navigation;Windows;Bookmarks saved/deleted
+3;Yandex;Navigation;Windows;Successful login to accounts
+4;Yandex;Navigation;Linux;Pages display correctly
+5;Yandex;Navigation;Linux;Bookmarks saved/deleted
+6;Yandex;Navigation;Linux;Successful login to accounts
+7;Yandex;Navigation;macOS;Pages display correctly
+8;Yandex;Navigation;macOS;Bookmarks saved/deleted
+9;Yandex;Navigation;macOS;Successful login to accounts
+10;Yandex;Login;Windows;Pages display correctly
+11;Yandex;Login;Windows;Bookmarks saved/deleted
+12;Yandex;Login;Windows;Successful login to accounts
+13;Yandex;Login;Linux;Pages display correctly
+14;Yandex;Login;Linux;Bookmarks saved/deleted
+15;Yandex;Login;Linux;Successful login to accounts
+16;Yandex;Login;macOS;Pages display correctly
+17;Yandex;Login;macOS;Bookmarks saved/deleted
+18;Yandex;Login;macOS;Successful login to accounts
+19;Yandex;Bookmarks;Windows;Pages display correctly
+20;Yandex;Bookmarks;Windows;Bookmarks saved/deleted
+21;Yandex;Bookmarks;Windows;Successful login to accounts
+22;Yandex;Bookmarks;Linux;Pages display correctly
+23;Yandex;Bookmarks;Linux;Bookmarks saved/deleted
+24;Yandex;Bookmarks;Linux;Successful login to accounts
+25;Yandex;Bookmarks;macOS;Pages display correctly
+26;Yandex;Bookmarks;macOS;Bookmarks saved/deleted
+27;Yandex;Bookmarks;macOS;Successful login to accounts
+28;Google;Navigation;Windows;Pages display correctly
+29;Google;Navigation;Windows;Bookmarks saved/deleted
+30;Google;Navigation;Windows;Successful login to accounts
+31;Google;Navigation;Linux;Pages display correctly
+32;Google;Navigation;Linux;Bookmarks saved/deleted
+33;Google;Navigation;Linux;Successful login to accounts
+34;Google;Navigation;macOS;Pages display correctly
+35;Google;Navigation;macOS;Bookmarks saved/deleted
+36;Google;Navigation;macOS;Successful login to accounts
+37;Google;Login;Windows;Pages display correctly
+38;Google;Login;Windows;Bookmarks saved/deleted
+39;Google;Login;Windows;Successful login to accounts
+40;Google;Login;Linux;Pages display correctly
+41;Google;Login;Linux;Bookmarks saved/deleted
+42;Google;Login;Linux;Successful login to accounts
+43;Google;Login;macOS;Pages display correctly
+44;Google;Login;macOS;Bookmarks saved/deleted
+45;Google;Login;macOS;Successful login to accounts
+46;Google;Bookmarks;Windows;Pages display correctly
+47;Google;Bookmarks;Windows;Bookmarks saved/deleted
+48;Google;Bookmarks;Windows;Successful login to accounts
+49;Google;Bookmarks;Linux;Pages display correctly
+50;Google;Bookmarks;Linux;Bookmarks saved/deleted
+51;Google;Bookmarks;Linux;Successful login to accounts
+52;Google;Bookmarks;macOS;Pages display correctly
+53;Google;Bookmarks;macOS;Bookmarks saved/deleted
+54;Google;Bookmarks;macOS;Successful login to accounts
+55;Firefox;Navigation;Windows;Pages display correctly
+56;Firefox;Navigation;Windows;Bookmarks saved/deleted
+57;Firefox;Navigation;Windows;Successful login to accounts
+58;Firefox;Navigation;Linux;Pages display correctly
+59;Firefox;Navigation;Linux;Bookmarks saved/deleted
+60;Firefox;Navigation;Linux;Successful login to accounts
+61;Firefox;Navigation;macOS;Pages display correctly
+62;Firefox;Navigation;macOS;Bookmarks saved/deleted
+63;Firefox;Navigation;macOS;Successful login to accounts
+64;Firefox;Login;Windows;Pages display correctly
+65;Firefox;Login;Windows;Bookmarks saved/deleted
+66;Firefox;Login;Windows;Successful login to accounts
+67;Firefox;Login;Linux;Pages display correctly
+68;Firefox;Login;Linux;Bookmarks saved/deleted
+69;Firefox;Login;Linux;Successful login to accounts
+70;Firefox;Login;macOS;Pages display correctly
+71;Firefox;Login;macOS;Bookmarks saved/deleted
+72;Firefox;Login;macOS;Successful login to accounts
+73;Firefox;Bookmarks;Windows;Pages display correctly
+74;Firefox;Bookmarks;Windows;Bookmarks saved/deleted
+75;Firefox;Bookmarks;Windows;Successful login to accounts
+76;Firefox;Bookmarks;Linux;Pages display correctly
+77;Firefox;Bookmarks;Linux;Bookmarks saved/deleted
+78;Firefox;Bookmarks;Linux;Successful login to accounts
+79;Firefox;Bookmarks;macOS;Pages display correctly
+80;Firefox;Bookmarks;macOS;Bookmarks saved/deleted
+81;Firefox;Bookmarks;macOS;Successful login to accounts

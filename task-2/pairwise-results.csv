@@ -1,0 +1,10 @@
+;Browser;Functionality;OS;Expected result
+1;Yandex;Navigation;Linux;Bookmarks saved/deleted
+2;Yandex;Login;Windows;Pages display correctly
+3;Yandex;Bookmarks;macOS;Successful login to accounts
+4;Google;Navigation;Windows;Successful login to accounts
+5;Google;Login;macOS;Bookmarks saved/deleted
+6;Google;Bookmarks;Linux;Pages display correctly
+7;Firefox;Navigation;macOS;Pages display correctly
+8;Firefox;Login;Linux;Successful login to accounts
+9;Firefox;Bookmarks;Windows;Bookmarks saved/deleted
